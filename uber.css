@@ -462,3 +462,102 @@ footer{
     width: 100%;
   }
 }
+.business img { width: 400px; }
+.uber-cards {
+  display: flex;
+  justify-content: space-between;
+  padding: 80px 10%;
+  background: #fff;
+  gap: 40px;
+}
+
+.card {
+    background: #f6f6f6;
+    padding: 20px;
+    border-radius: 12px;
+}
+.card img { width: 100px; }
+
+/* RESERVE */
+.reserve {
+    display: flex;
+    padding: 60px;
+}
+.reserve-box {
+    background: #9dd0da;
+    padding: 40px;
+    border-radius: 20px;
+    display: flex;
+}
+.benefits { padding: 40px; }
+
+/* GROUP */
+.group {
+    display: flex;
+    padding: 60px;
+}
+
+/* BUSINESS */
+.business {
+    background: black;
+    color: white;
+    padding: 60px;
+    display: flex;
+}
+.business img { width: 400px; }
+.uber-cards {
+  display: flex;
+  justify-content: space-between;
+  padding: 80px 10%;
+  background: #fff;
+  gap: 40px;
+}
+
+.card {
+  width: 32%;
+  display: flex;
+  flex-direction: column;
+}
+
+.card img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.card h3 {
+  font-size: 22px;
+  margin: 20px 0 10px;
+}
+
+.card p {
+  font-size: 16px;
+  line-height: 1.6;
+  color: #555;
+}
+
+.card button {
+  margin-top: 20px;
+  padding: 14px 22px;
+  background: black;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  width: fit-content;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.card button:hover {
+  background: #333;
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .uber-cards {
+    flex-direction: column;
+  }
+
+  .card {
+    width: 100%;
+  }
+}

@@ -161,7 +161,7 @@ Through this project, the following skills were strengthened:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 Khushi Kumari  
 

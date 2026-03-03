@@ -160,6 +160,11 @@ Through this project, the following skills were strengthened:
 * Deploy the project using GitHub Pages
 
 ---
+##  Live Demo
+
+[![Watch Demo](https://youtu.be/3mekyu3Wx7w)
+
+---
 
 ##  Author
 

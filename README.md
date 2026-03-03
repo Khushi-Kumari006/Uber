@@ -161,15 +161,13 @@ Through this project, the following skills were strengthened:
 
 ---
 
-##  Author
-Khushi Kumari
+## 👩‍💻 Author
 
-GitHub:https://github.com/Khushi-Kumari006
-LinkedIn: https://www.linkedin.com/in/khushi-kumari-129654319/
-Email:singhkhushi6877@gmail.com
+Khushi Kumari  
 
-
-Khushi Singh
+GitHub: https://github.com/Khushi-Kumari006  
+LinkedIn: https://www.linkedin.com/in/khushi-kumari-129654319/  
+Email: singhkhushi6877@gmail.com  
 
 ---
 

@@ -162,7 +162,7 @@ Through this project, the following skills were strengthened:
 ---
 ##  Live Demo
 
-[![Watch Demo](https://youtu.be/3mekyu3Wx7w)
+https://youtu.be/3mekyu3Wx7w
 
 ---
 

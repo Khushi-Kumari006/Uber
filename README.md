@@ -1,6 +1,6 @@
-# 🚗 Uber Website UI Clone
+#  Uber Website UI Clone
 
-## 📌 Project Overview
+##  Project Overview
 
 The **Uber Website UI Clone** is a static front-end project developed using **HTML5** and **CSS3**.
 The objective of this project is to replicate the visual design and layout of the official **Uber** homepage.
@@ -13,7 +13,7 @@ The clone closely matches the original Uber homepage in terms of layout, typogra
 
 ---
 
-## 🎯 Purpose of the Project
+##  Purpose of the Project
 
 The primary purpose of this project is to strengthen frontend development skills by:
 
@@ -27,7 +27,7 @@ This project serves as a practical implementation of core frontend concepts.
 
 ---
 
-## ✨ Features Implemented
+##  Features Implemented
 
 ### 🔹 Navigation Bar
 
@@ -60,7 +60,7 @@ This project serves as a practical implementation of core frontend concepts.
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 ### Frontend
 
@@ -78,7 +78,7 @@ This project serves as a practical implementation of core frontend concepts.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Uber-Clone/
@@ -91,7 +91,7 @@ Uber-Clone/
 
 ---
 
-## 🏗 System Architecture
+##  System Architecture
 
 ```
 HTML Structure
@@ -105,7 +105,7 @@ This project follows a simple static website architecture without backend integr
 
 ---
 
-## ⚙ Installation and Execution Steps
+##  Installation and Execution Steps
 
 ### Step 1: Clone the repository
 
@@ -127,7 +127,7 @@ No additional setup or dependencies are required.
 
 ---
 
-## ⚠ Limitations
+##  Limitations
 
 * No JavaScript functionality
 * No backend integration
@@ -139,7 +139,7 @@ This project is intended for frontend practice and UI replication only.
 
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 Through this project, the following skills were strengthened:
 
@@ -151,7 +151,7 @@ Through this project, the following skills were strengthened:
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 * Add JavaScript for interactivity
 * Implement backend integration
@@ -161,7 +161,13 @@ Through this project, the following skills were strengthened:
 
 ---
 
-## 👩‍💻 Author
+##  Author
+Khushi Kumari
+
+GitHub:https://github.com/Khushi-Kumari006
+LinkedIn: https://www.linkedin.com/in/khushi-kumari-129654319/
+Email:singhkhushi6877@gmail.com
+
 
 Khushi Singh
 
